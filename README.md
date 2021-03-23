@@ -50,10 +50,10 @@
 </p>
 
 <hr> </hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumry&show_icons=true&locale=en&layout=compact" alt="zumry" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zumry&show_icons=true&locale=en" alt="zumry" /></p>
 
 <hr> </hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zumry&show_icons=true&locale=en" alt="zumry" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumry&show_icons=true&locale=en&layout=compact" alt="zumry" /></p>
 
 <hr> </hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zumry&" alt="zumry" /></p>
