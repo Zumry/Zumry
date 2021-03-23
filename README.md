@@ -8,16 +8,7 @@
     <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="55%" align="right" style="max-width:100% ;">
 </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/zumry_lk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zumry_lk" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/zumry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zumry" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/11932513/zumry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="zumry" height="30" width="40" /></a>
-    <a href="https://fb.com/zumry.lk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zumry.lk" height="30" width="40" /></a>
-    <a href="https://instagram.com/zumry_zum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zumry_zum" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/zumry amanullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zumry amanullah" height="30" width="40" /></a>
-</p>
-
+<hr></hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
@@ -45,6 +36,17 @@
     <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
     <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
+</p>
+
+<hr></hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/zumry_lk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zumry_lk" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/zumry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zumry" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/11932513/zumry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="zumry" height="30" width="40" /></a>
+    <a href="https://fb.com/zumry.lk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zumry.lk" height="30" width="40" /></a>
+    <a href="https://instagram.com/zumry_zum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zumry_zum" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/zumry amanullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zumry amanullah" height="30" width="40" /></a>
 </p>
 
 <hr> </hr>
