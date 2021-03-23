@@ -5,7 +5,7 @@
 </p>
 
 <a>
-    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="500" align="right" style="max-width:100% ;">
+    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="50%" align="right" style="max-width:100% ;">
 </a>
 
 <h3 align="left">Connect with me:</h3>
@@ -47,8 +47,11 @@
     <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
 </p>
 
+<hr> </hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumry&show_icons=true&locale=en&layout=compact" alt="zumry" /></p>
 
+<hr> </hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zumry&show_icons=true&locale=en" alt="zumry" /></p>
 
+<hr> </hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zumry&" alt="zumry" /></p>
