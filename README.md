@@ -5,7 +5,7 @@
 </p>
 
 <a>
-    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" style="max-width:100% ;">
+    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="500" align="right" style="max-width:100% ;">
 </a>
 
 <h3 align="left">Connect with me:</h3>
