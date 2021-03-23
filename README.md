@@ -5,7 +5,7 @@
 </p>
 
 <a>
-    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="50%" align="right" style="max-width:100% ;">
+    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="55%" align="right" style="max-width:100% ;">
 </a>
 
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@
 </p>
 
 <hr> </hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumry&show_icons=true&locale=en&layout=compact" alt="zumry" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumry&show_icons=true&locale=en&layout=compact" alt="zumry" /></p>
 
 <hr> </hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zumry&show_icons=true&locale=en" alt="zumry" /></p>
