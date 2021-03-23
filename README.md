@@ -4,6 +4,10 @@
     <a href="https://twitter.com/zumry_lk" target="blank"><img src="https://img.shields.io/twitter/follow/zumry_lk?logo=twitter&style=for-the-badge" alt="zumry_lk" /></a>
 </p>
 
+<a>
+    <img src="https://github.com/paulsonjpaul/paulsonjpaul/raw/main/Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" style="max-width:100% ;">
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/zumry_lk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zumry_lk" height="30" width="40" /></a>
