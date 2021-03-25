@@ -59,6 +59,10 @@
 <hr> </hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumry&show_icons=true&locale=en&layout=compact" alt="zumry" /></p>
 
+<blockquote>
+    <p><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> <strong>Disclaimer:</strong> Most Used Languages doesn't indicate my skills or knowledge. It is calculated using the languages used in my public repositories.</p>
+</blockquote>
+
 <hr> </hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zumry&" alt="zumry" /></p>
 
