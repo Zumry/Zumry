@@ -1,14 +1,11 @@
 <html>
 
 <head>
-    <title>Zumry</title>
-
     <style>
         .effect-wrap .effect {
             position: absolute;
             z-index: -1;
         }
-        
         .effect-1 {
             width: 30px;
             height: 30px;
@@ -17,8 +14,7 @@
             bottom: 10%;
             animation: spin 10s linear infinite;
         }
-        
-        .effect-2 {
+       .effect-2 {
             left: 3%;
             bottom: 20%;
             width: 40px;
@@ -27,14 +23,12 @@
             justify-content: space-between;
             animation: topBounce 3s ease-in-out infinite;
         }
-        
         .effect-2 div {
             height: 3px;
             width: 3px;
             background-color: #ff9c07;
             margin: 0 3px 8px;
         }
-        
         .effect-3 {
             height: 180px;
             width: 180px;
@@ -44,7 +38,6 @@
             top: -120px;
             animation: leftBounce 3s ease-in-out infinite;
         }
-        
         .effect-4 {
             border-top: 30px solid transparent;
             border-left: 30px solid #06d79c;
@@ -52,7 +45,6 @@
             top: 20%;
             animation: spin 15s linear infinite;
         }
-        
         .effect-4:before {
             content: '';
             border-top: 30px solid transparent;
@@ -62,7 +54,6 @@
             left: -35px;
             top: -25px;
         }
-        
         .effect-5 {
             height: 50px;
             width: 50px;
@@ -74,12 +65,10 @@
             overflow: hidden;
             animation: spin 10s linear infinite;
         }
-        
         .effect-5 div {
             width: 1px;
             background-color: #4dd0e1;
         }
-        
         @keyframes spin {
             0% {
                 transform: rotate(0deg);
@@ -88,7 +77,6 @@
                 transform: rotate(360deg);
             }
         }
-        
         @keyframes topBounce {
             0%,
             100% {
@@ -98,7 +86,6 @@
                 transform: translateY(25px);
             }
         }
-        
         @keyframes leftBounce {
             0%,
             100% {
@@ -108,7 +95,6 @@
                 transform: translateX(25px);
             }
         }
-        
         @keyframes fadeInTop {
             0% {
                 opacity: 0;
@@ -120,44 +106,13 @@
             }
         }
     </style>
-
-
-</head>
-
-<body>
-
-    <!-- effect wrap start-->
-    <div class="effect-wrap">
+    <div class="effect-wrap" >
         <div class="effect effect-1"> </div>
         <div class="effect effect-2">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
+            <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div>
+            <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div>
+            <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div> <div></div>
+            <div></div> <div></div> <div></div> <div></div>
         </div>
         <div class="effect effect-3"></div>
         <div class="effect effect-4"></div>
@@ -166,7 +121,7 @@
             <div></div> <div></div> <div></div> <div></div> <div></div>
         </div>
     </div>
-    <!-- effect wrap end-->
+    
 
 <h1>Hi 👋, I'm Zumry Amanullah</h1>
 
