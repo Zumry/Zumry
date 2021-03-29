@@ -28,7 +28,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase" alt="firebase" width="auto" height="25" /></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="mongodb" width="auto" height="25" /></a>
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C" alt="c" width="auto" height="25" /></a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySql-d4d9d6?style=flat-square&logo=Mysql" alt="mysql" width="auto" height="25" /></a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySql-180238?style=flat-square&logo=Mysql" alt="mysql" width="auto" height="25" /></a>
     <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/-postman-4a463f?style=flat-square&logo=postman" alt="postman" width="auto" height="25" /></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/-python-563D7C?style=flat-square&logo=python" alt="python" width="auto" height="25" /></a>
     <a href="https://svelte.dev" target="_blank"> <img src="https://img.shields.io/badge/-svelte-7a3000?style=flat-square&logo=svelte" alt="svelte" width="auto" height="25" /> </a>
